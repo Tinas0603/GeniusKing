@@ -1,0 +1,25 @@
+export default {
+    PRIMARY: '#E69DA9',
+    LIGHT_PRIMARY: '#E3AAB2',
+    WHITE: '#FFF',
+    BLACK: '#000',
+    SECONDARY: '#1E90FF',
+    GRAY: '#808080',
+    GREEN: '#0BAE1B',
+    LIGHT_GREEN: '#90EE90',
+    INSTAGRAM: "#C13584",
+    DISCORD: "#7289DA",
+    DANGER: "#E1306C",
+    // Dracula Theme Colors
+    DRACULA_BACKGROUND: "#282a36",
+    DRACULA_FOREGROUND: "#f8f8f2",
+    DRACULA_COMMENT: "#6272a4",
+    DRACULA_CYAN: "#8be9fd",
+    DRACULA_GREEN: "#50fa7b",
+    DRACULA_ORANGE: "#ffb86c",
+    DRACULA_PINK: "#ff79c6",
+    DRACULA_PURPLE: "#bd93f9",
+    DRACULA_RED: "#ff5555",
+    DRACULA_YELLOW: "#f1fa8c",
+  };
+  
